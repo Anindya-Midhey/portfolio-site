@@ -17,7 +17,7 @@ export const profile = {
     "I am comfortable understanding algorithms and applying them to build practical AI and data-driven systems.",
   ],
   phone: "+91 7044908773",
-  email: "anindyamidhey2020@gmail.com",
+  email: "anindyamidhey2019@gmail.com",
   linkedin: "https://www.linkedin.com/in/anindya-midhey-607866377/",
   github: "https://github.com/Anindya-Midhey",
   image: "/profile.png", // TODO: add a photo path, e.g. "/photo.jpg" (drop file into public/)
