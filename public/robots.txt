@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anindyamidheyportfolio.netlify.app/sitemap.xml
