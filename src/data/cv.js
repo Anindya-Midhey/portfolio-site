@@ -208,7 +208,7 @@ export const achievements = [
   {
     title: "IIT JAM 2025 (Mathematics)",
     remark: "AIR: 1424",
-    detail: "All India Rank 1424 in the IIT Joint Admission Test for M.Sc, Mathematics.",
+    detail: "All India Rank 1424 in the IIT Joint Admission Test for M.Sc. Mathematics.",
   },
   {
     title: "CUET-PG 2025 (Mathematics)",
