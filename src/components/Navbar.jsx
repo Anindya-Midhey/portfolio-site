@@ -61,7 +61,7 @@ export default function Navbar() {
             target="_blank"
             rel="noreferrer"
           >
-            CV <span className="btn-cv-arrow">&darr;</span>
+            View Resume
           </a>
           <button
             className="nav-toggle"
