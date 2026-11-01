@@ -225,6 +225,12 @@ export const certificates = [
     image: "c++.png",
   },
   {
+    title: "Generative AI for Computer Vision",
+    issuer: "NPTEL",
+    year: "2026",
+    image: "GenAI.png",
+  },
+  {
     title: "Certificate in Information Technology Application",
     issuer: "CITA",
     year: null,
